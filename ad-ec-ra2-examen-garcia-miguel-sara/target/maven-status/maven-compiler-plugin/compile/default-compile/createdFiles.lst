@@ -1,0 +1,4 @@
+org\educa\service\VehiculoService.class
+org\educa\entity\VehiculoEntity.class
+org\educa\Main.class
+org\educa\pool\ConnectionPool.class
