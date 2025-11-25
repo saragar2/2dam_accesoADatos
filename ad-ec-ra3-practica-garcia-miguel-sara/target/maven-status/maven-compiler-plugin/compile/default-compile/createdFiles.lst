@@ -1,0 +1,16 @@
+org\educa\service\VehiculoService.class
+org\educa\service\AlquilerService.class
+org\educa\Main.class
+org\educa\entity\CombustibleEntity.class
+org\educa\entity\ClienteEntity.class
+org\educa\entity\DireccionEntity.class
+org\educa\entity\SeguroEntity.class
+org\educa\configuration\HibernateConfiguration.class
+org\educa\service\SeguroService.class
+org\educa\entity\CategoriaEntity.class
+org\educa\entity\AlquilerEntity.class
+org\educa\entity\SucursalEntity.class
+org\educa\service\SucursalService.class
+org\educa\entity\EquipamientoEntity.class
+org\educa\entity\VehiculoEntity.class
+org\educa\service\ClienteService.class
