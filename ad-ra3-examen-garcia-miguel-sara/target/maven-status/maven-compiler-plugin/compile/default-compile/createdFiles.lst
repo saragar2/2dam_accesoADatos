@@ -1,0 +1,5 @@
+org\educa\entity\VehiculoEntity.class
+org\educa\configuration\HibernateConfiguration.class
+org\educa\entity\SucursalEntity.class
+org\educa\Main.class
+org\educa\service\SucursalService.class
